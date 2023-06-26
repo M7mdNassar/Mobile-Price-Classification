@@ -9,6 +9,7 @@ A Machine Learning Project to predict the Price Class of a Mobile based on its S
   - The Correlation between the attributes
   - The attributes that are most correlated with the Price Range ( Our target )
   - Outlier Analysis of Non-categorical Data
+  - Mentain incorrect attributes values
   - Histogram of all the attributes
   
 #### Next we tried a total of 3 Machine Learning Algorithms for each we made a confusion matrix and the most contributing features were found
